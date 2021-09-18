@@ -2,7 +2,7 @@
 {
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
+    
 }
 
 
@@ -23,8 +23,8 @@ body{
 }
 .menu ul{
     display: inline-flex;
-    list-style: none   ;
-    color:black
+    list-style: none;
+    color:black;
 }   
 .menu ul li{
     width: 120px;
@@ -36,7 +36,25 @@ body{
     color: black;
 }
 .active, .menu ul li:hover{
-    background:orange;
-    border-radius: 3px;
+    background:pink;
+    border-radius: 4px;
  
+}
+.menu .fa{
+    margin-right: 10px;
+}
+.sub-menu-1{
+
+    display: none;
+}
+.menu ul li:hover .sub-menu-1{
+    display: block;
+    position: absolute;
+    background:orange;   
+    margin-top: 15px;
+    margin-left:15px ;
+}
+.menu ul li:hover .sub-menu-1 ul{
+    display: block;
+    margin: 10px;
 }
