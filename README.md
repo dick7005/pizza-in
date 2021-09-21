@@ -1,14 +1,14 @@
-# {**PIZZA INN}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# {**PIZZA INN turizzmo}
+#### {this is a a pizza website thats helps in promoting the business by reaching ti as many clients as possible.with an intention of o bieng the best in town with fast and relatively cheap delivery services that is done online through this website}, {september/21st/2021}
+# author
+
+**DICKSON NJUGUNA**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
-## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
+### {this is a a pizza website thats helps in promoting the business by reaching ti as many clients as possible.with an intention of o bieng the best in town with fast and relatively cheap delivery services that is done online through this website. }
+## Setup properties
+* 
+* 
+* 
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
